@@ -217,5 +217,4 @@ rootObject:
               ARCHS:
                 LifeHashBuildTest_1.6.0.beta.2/Pods/Pods.xcodeproj: "$(ARCHS_STANDARD_64_BIT)"
                 LifeHashBuildTest_1.6.0.rc.2/Pods/Pods.xcodeproj: 
-Wolfs-Mac-Pro:Dropbox ironwolf$ 
 ```
